@@ -1,1 +1,1 @@
-# glowing-octo-potatos
+octo-potato
